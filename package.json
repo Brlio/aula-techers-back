@@ -1,0 +1,21 @@
+{
+  "name": "aula-techers-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oi.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brlio/aula-techers-back.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brlio/aula-techers-back/issues"
+  },
+  "homepage": "https://github.com/Brlio/aula-techers-back#readme"
+}
