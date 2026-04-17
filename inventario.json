@@ -1,13 +1,14 @@
-
 [
     {
+        "id": 0,
         "nome": "Poção",
-        "qtd": 5,
-        "efeito": "Levitação"
+        "categoria": "Consumivels",
+        "qtd": 5
     },
     {
+        "id": 1,
         "nome": "Espada",
-        "qtd": 1,
-        "efeito": "Aspecto Flamejante"
+        "categoria": "Arma",
+        "qtd": 1
     }
 ]
